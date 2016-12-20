@@ -1,7 +1,7 @@
 # Explore-and-Summarize-Data-with-Red-Wine
 
 ### Description of Project
- • Used R to explored a selected dataset for distributions, outliers, and anomalies.  
+ • Use R and apply exploratory data analysis techniques to explore a selected data set from red wine for distributions, outliers, and anomalies.  
  • Technologies Used: ggplot2, gridExtra, GGally, corrplot
 
 ### Run Instruction
